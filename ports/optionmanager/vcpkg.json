@@ -1,0 +1,6 @@
+{
+	"name": "optionmanager",
+	"version": "0.2.0",
+	"description": "STL Map-like dynamic type option manager",
+	"homepage": "https://github.com/QUOPA/OptionManager"
+}

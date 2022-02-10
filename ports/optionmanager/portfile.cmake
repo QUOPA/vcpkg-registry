@@ -1,0 +1,5 @@
+vcpkg_from_github(
+	OUT_SOURCE_PATH SOURCE_PATH
+	REPO QUOPA/OptionManager
+	REF 66a50437d191e4029fb56876281dd16f28195ea6
+)
